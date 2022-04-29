@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/Dengchenlong-Studio-github-readme)
-<img src="https://github-readme-stats.vercel.app/api?username=DengChenlong-Studio&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false
+# :wave: Hi DengChenlong-Studio here!
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=namespace-Pt&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=tokyonight" alt="DengChenlong-Studio's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DengChenlong-Studio&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
