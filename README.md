@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # :wave: Hi DengChenlong-Studio here!
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=DengChenlong-Studio&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=tokyonight" alt="DengChenlong-Studio's GitHub stats" height="170px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DengChenlong-Studio&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="170px" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=DengChenlong-Studio&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=tokyonight" alt="DengChenlong-Studio's GitHub stats" height="175px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DengChenlong-Studio&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="175px" />
