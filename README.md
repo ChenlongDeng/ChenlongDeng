@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # :wave: Hi DengChenlong-Studio here!
-![DengChenlong-Studio's github stats](https://github-readme-stats.vercel.app/api?username=DengChenlong-Studio&show_icons=true&theme=radical) 
+![DengChenlong-Studio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DengChenlong-Studio&show_icons=true&theme=radical)
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DengChenlong-Studio&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="180px" />
